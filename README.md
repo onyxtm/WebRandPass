@@ -1,2 +1,2 @@
-# WebRandPass
-Website Random Pass Not Html Page in php
+# وبسایت رمز تصادفی
+این سورس به شما امکان ساخت صفحه ای به همراه ۲ شی در آن به کاربر اجازه ساخترمز بده
